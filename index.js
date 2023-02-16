@@ -257,7 +257,12 @@ async function creditsAsking() {
 function writeReadme(){
     writeMarkdown()
     let mark = markdown.toString()
-    fs.writeFile('README.md', mark, (err) =>
+    // date.now in the file name allows multips readmes to be saved rather than overwriting the same one
+    fs.writeFile(`./createdREADMES/README${Date.now()}.md`, mark, (err) =>
+      err ? console.log(err) : console.log('Success!')
+    )
+    // writes the most current readme to the current file
+    fs.writeFile(`./current/README.md`, mark, (err) =>
       err ? console.log(err) : console.log('Success!')
     )
 }

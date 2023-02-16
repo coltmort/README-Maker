@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "add-filename-increment": "^1.0.0",
     "inquirer": "^8.2.4",
     "octokit": "^2.0.14"
   }
