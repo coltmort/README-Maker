@@ -1,7 +1,3 @@
-// TODO:
-    // Table of Contents
-
-    // License badge ontop and info in section
 
 const fs = require('fs')
 const inquirer = require('inquirer')

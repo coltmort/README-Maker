@@ -1,5 +1,35 @@
-# vbfer
+# Project title
 ![GitHub](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+## Description
+
+This is a short description of the project.
+## Table of Contents
+- [Installation](#installation)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions?](#questions?)
+## Installation
+
+Here you would input installation steps
+
+## Credits
+Node.js, etc
+
+### Collaborators
+- Frank, frankky
+    
+- Sam, sammy
+    
+## How to Contribute
+
+Here you would explain how someone should contribute to your project.
+## Questions?
+### Feel free to email me with questions.
+
+- Coltmort
+- c@c.com
+    
 ## License
 
 MIT License
