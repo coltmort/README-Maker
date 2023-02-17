@@ -19,6 +19,8 @@ Currently you will need to clone the repo to your computer. In the future it wil
 
 Simply run 'node {name of file}' and follow the prompts in the terminal. You will be asked which sections you would like to include and then guided through questions to know what to include in the README.
 
+[Watch a demo of README Maker](./Assets/CJM%20README%20Maker%20demo720.mov)
+
 ## Credits
 Node.js, inquirer
 
